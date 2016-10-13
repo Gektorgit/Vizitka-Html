@@ -1,0 +1,117 @@
+﻿body 
+{
+	background-image:url("Fon.jpg");
+	background-size:100%;
+}
+#img1
+{
+	height:30%;
+	width: 100%;
+}
+#img2
+{
+	height:900px;
+	width:900px;
+	border-style:ridge;
+	border-width: 10px;
+	
+}
+#img3
+{
+	height:50px;
+	width:50px;
+}
+button
+{
+	height:5%;
+	width: 19.73%;
+	font-family:Buxton Sketch;
+	font-size: 150%;
+}
+#Text1
+{
+	color:#00FF00;
+	font-family:Buxton Sketch;
+	opacity: 0.6;
+	font-size: 300%;
+}
+ASIDE
+{
+	height: 300px;
+	width: 125px;
+	Background: #FF6347;
+	Position: fixed;
+	Right: 0;
+	Top: 36%;
+	box-shadow: -10px 10px 10px rgba(0,255,0,0.5);
+	overflow: auto;
+}
+#div_foto
+{
+	height: 100px;
+	width: 125px;
+	Background: #FF6347;
+	Position: fixed;
+	Right: 0;
+	Top: 80.5%;
+	box-shadow: -10px 10px 10px rgba(0,255,0,0.5);
+	overflow: auto;
+}
+#div_glav_kont
+{
+	height: 100px;
+	width: 125px;
+	Background: #FF6347;
+	Position: fixed;
+	Right: 0;
+	Top: 40%;
+	box-shadow: -10px 10px 10px rgba(0,255,0,0.5);
+	overflow: auto;
+}
+#div_kontent_main
+{
+	overflow: auto;
+	height: auto;
+	width: 85%;
+	Background: #D2B48C;
+	Right: 5%;
+	left: 0;
+	Top: 30%;
+	font-family:Buxton Sketch;
+	font-size: 200%;
+}
+#div_kontent_new
+{
+	overflow: auto;
+	height: auto;
+	width: 85%;
+	Background: #D2B48C;
+	Right: 5%;
+	left: 0;
+	Top: 30%;
+	font-family:Buxton Sketch;
+	font-size: 200%;
+}
+table
+{
+	border:10px outset;
+	background-color:#556B2F;
+	color:#DAA520;
+	
+}
+td
+{
+	border: 5px inset #008B8B;
+}
+P
+{
+	position:relative;
+	font-family:Buxton Sketch;
+	font-size: 400%;
+	color:#DAA520;
+	left:30%; 
+}
+b
+{
+	font-size: 150%;
+}
